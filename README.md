@@ -1,5 +1,7 @@
 # MTZTGR - Techno from Berlin. schiebt. drückt. brettert.
 
+[![Latest Release](img/opengraph-preview.jpg)](https://mtzt.gr/)
+
 ## Download and Installation
 
 Clone the repo.
